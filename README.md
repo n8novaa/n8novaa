@@ -5,7 +5,7 @@ working and learning API-driven systems, exploring machine learning techniques, 
 ---
 
 ## 🔧 Tech Stack
-**Languages:** Python, JavaScript, c  
+**Languages:** Python, JavaScript, c, java  
 **Frameworks:** Django  
 **Databases:** PostgreSQL, SQLite  
 **Tools:** Git, Docker, Linux  
