@@ -27,5 +27,5 @@ working and learning API-driven systems, exploring machine learning techniques, 
 ---
 
 ## 📬 Contact
-**Email:** basilpaul@gmail.com 
+**Email:** basilpaul71136@gmail.com 
 **LinkedIn:** www.linkedin.com/in/basil-k-paul-6599a0249
