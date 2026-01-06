@@ -14,7 +14,7 @@ working and learning API-driven systems, exploring machine learning techniques, 
 
 ## 🚀 Featured Projects
 - **Studygram** – study focused community chat platform  
-  **Repo:** [link]
+  **Repo:** [https://github.com/n8novaa/studygram]
 
 ---
 
