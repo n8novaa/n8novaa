@@ -13,7 +13,7 @@ working and learning API-driven systems, exploring machine learning techniques, 
 ---
 
 ## 🚀 Featured Projects
-- **Movie Recommendation System** – ML-based recommender using cosine similarity  
+- **Studygram** – study focused community chat platform  
   **Repo:** [link]
 
 ---
