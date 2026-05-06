@@ -1,129 +1,79 @@
 <div align="center">
 
-# Basil K Paul
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=header&text=Basil%20K%20Paul&fontSize=36&fontColor=ffffff&fontAlignY=65&desc=Full%20Stack%20%C2%B7%20Android%20%C2%B7%20IoT&descAlignY=85&descSize=14&descColor=aaaaaa" width="100%"/>
 
-**Full Stack Developer · Android · IoT Systems**
-
-[![Email](https://img.shields.io/badge/basilpaul71136@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:basilpaul71136@gmail.com)
-[![GitHub](https://img.shields.io/badge/n8novaa-181717?style=flat&logo=github&logoColor=white)](https://github.com/n8novaa)
-[![LinkedIn](https://img.shields.io/badge/basil--k--paul-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/basil-k-paul-6599a0249)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/basil-k-paul-6599a0249)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:basilpaul71136@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/n8novaa)
 
 </div>
 
 ---
 
-I build things that work — from REST APIs and Android apps to IoT firmware running on ESP32s. Currently wrapping up my B.Tech in Computer Science (graduating 2026), with two industry internships, a **peer-reviewed publication**, and four shipped projects under my belt.
+B.Tech CS (2026) · 2 industry internships · 1 peer-reviewed publication · 4 shipped projects
 
-My final-year project, **Novacane**, is an AI-powered assistive cane for visually impaired users. It was publicly demonstrated at a college expo and led to a published research paper in IJIRT. That kind of end-to-end ownership — hardware firmware → Android client → cloud backend → research writeup — is how I approach every project.
-
----
-
-## What I Work With
-
-**Languages** — Python · JavaScript · Kotlin · C
-
-**Frontend** — React.js · HTML/CSS · Responsive Design
-
-**Backend** — Django · Django REST Framework · REST API Design
-
-**Android** — Kotlin · Android SDK · Jetpack Components
-
-**ML / Data** — Scikit-learn · Pandas · NumPy · Feature Engineering
-
-**IoT & Hardware** — ESP32 · Sensor Integration · BLE · Wi-Fi
-
-**Databases** — SQL · Relational Schema Design · Firebase Realtime Database
-
-**Tools** — Git · Postman
+I build across the stack — React frontends, Django backends, Kotlin Android apps, and ESP32 firmware. My final-year project is a published, publicly demonstrated IoT system for visually impaired users.
 
 ---
 
-## Featured Projects
+## 📄 Publication
 
-### 🦯 Novacane — AI-Powered Assistive Cane
-`Kotlin` `ESP32` `Firebase` `IoT` `BLE`
-
-An end-to-end assistive system for visually impaired users, selected as my B.Tech final-year project and demonstrated publicly at a college expo.
-
-- Dual-interface Android app (user + remote guardian) with real-time GPS tracking and emergency alerts via Firebase
-- ESP32 microcontroller integrated with ultrasonic and proximity sensors — sub-second alert latency over BLE and Wi-Fi
-- Designed the full system architecture: hardware firmware → Android client → Firebase backend
-- Work led to a **peer-reviewed publication** in the International Journal of Innovative Research and Technology (IJIRT)
-
-→ [github.com/n8novaa](https://github.com/n8novaa)
+> **"A Survey on AI-Powered Smart Assistive Cane for Visually Impaired Using IoT and Computer Vision"**
+> *International Journal of Innovative Research and Technology (IJIRT) — Peer Reviewed, 2026*
 
 ---
 
-### 📚 Book Recommendation System
-`React` `Django` `Scikit-learn` `REST API`
+## 🚀 Projects
 
-Full-stack recommendation engine with a React frontend and Django REST backend. ML inference (content-based filtering) is cleanly decoupled from the web layer for maintainability.
-
-- Personalised recommendations served via RESTful API endpoints
-- Clean component architecture using React hooks and reusable UI components
-- Fully responsive design
-
-→ [github.com/n8novaa](https://github.com/n8novaa)
+| Project | Stack | Highlights |
+|---|---|---|
+| [**Novacane**](https://github.com/n8novaa) | Kotlin · ESP32 · Firebase · BLE | AI assistive cane · dual Android interfaces · sub-second sensor latency · IJIRT published |
+| [**Book Recommendation System**](https://github.com/n8novaa) | React · Django · Scikit-learn | Content-based filtering · decoupled ML inference · REST API |
+| [**PortfolioHub**](https://github.com/n8novaa) | Django · SQL · JWT | Multi-user platform · normalised schema · dynamic REST rendering |
+| [**Studygram**](https://github.com/n8novaa) | Django REST Framework | Concurrent study rooms · threaded discussions · modular architecture |
 
 ---
 
-### 🗂️ PortfolioHub
-`Django` `Python` `SQL` `JWT` `REST API`
+## 🛠 Stack
 
-A multi-user portfolio platform built with Django, designed to let users dynamically manage and showcase their profiles and projects.
-
-- Implemented JWT-based authentication for secure, stateless user sessions
-- Designed a normalised relational schema to efficiently model users, profiles, and project data
-- Built REST API endpoints that power dynamic profile and project rendering on the frontend
-- Focused on clean backend architecture that separates concerns and keeps the codebase maintainable
-
----
-
-### 🎓 Studygram
-`Django REST Framework` `Python`
-
-A scalable study platform backend built to support real-time collaborative learning — think structured study rooms with async discussion built in.
-
-- Engineered concurrent study room support, allowing multiple users to participate simultaneously without conflicts
-- Built topic-based discussion threads to keep conversations organised and searchable by subject
-- Designed with a modular service architecture, so individual features (rooms, threads, users) can be extended or replaced independently
-- Prioritised scalability from the start — the system is structured to handle growing user load without major refactoring
+```
+Languages   Python · JavaScript · Kotlin · C
+Frontend    React.js · HTML/CSS
+Backend     Django · Django REST Framework
+Android     Kotlin · Android SDK · Jetpack
+ML          Scikit-learn · Pandas · NumPy
+IoT         ESP32 · BLE · Wi-Fi · Firebase
+DB          SQL · Firebase Realtime Database
+```
 
 ---
 
-## Experience
+## 💼 Experience
 
-**Machine Learning Intern** — NeST Cyber Campus, Kochi *(Jun – Jul 2025)*
-> Trained and evaluated supervised classification and regression models on structured industry datasets. Built end-to-end preprocessing pipelines and packaged outputs into reusable prediction pipelines for downstream integration.
+**ML Intern** — NeST Cyber Campus, Kochi *(Jun–Jul 2025)*
+Classification/regression models · preprocessing pipelines · reusable prediction outputs
 
-**Python Full Stack Developer Intern** — Futuro IT Solutions *(Jun – Jul 2024)*
-> Developed and shipped full-stack features on a production Django application. Built and documented RESTful API endpoints; reduced code duplication through modular backend design.
-
----
-
-## Research & Publication
-
-**"A Survey on AI-Powered Smart Assistive Cane for Visually Impaired Using IoT and Computer Vision"**
-*International Journal of Innovative Research and Technology (IJIRT) — Peer Reviewed*
-
-The research paper underpinning the Novacane project, covering the system design, hardware integration, and computer vision pipeline.
+**Full Stack Intern** — Futuro IT Solutions *(Jun–Jul 2024)*
+Django production features · REST API design · modular backend architecture
 
 ---
 
-## Education
+## 📊 GitHub Stats
 
-**B.Tech in Computer Science and Engineering** — 2022–2026
-Sree Narayana Gurukulam College of Engineering, Kochi, Kerala
+<div align="center">
 
-*Relevant coursework: DSA · DBMS · Operating Systems · Machine Learning · Computer Networks*
+![Basil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=n8novaa&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff)
+&nbsp;&nbsp;
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=n8novaa&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff)
+
+</div>
 
 ---
 
 <div align="center">
 
-*Open to full-stack and Android developer roles at product-focused teams.*
-**Let's build something.*
+*Open to full-stack and Android roles · [basilpaul71136@gmail.com](mailto:basilpaul71136@gmail.com)*
 
-[![Email](https://img.shields.io/badge/Get%20in%20touch-basilpaul71136@gmail.com-blue?style=for-the-badge)](mailto:basilpaul71136@gmail.com)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=80&section=footer" width="100%"/>
 
 </div>
